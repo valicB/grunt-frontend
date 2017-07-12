@@ -1,0 +1,17 @@
+grunt, gulp -> tools ->
+  task runners
+    * optimization (css)
+    * compilation (scss->css)
+    * concat of files (.js)
+    * uglify (compress)
+    * image processing
+
+1) npm install -g grunt-cli
+2) npm install grunt --save-dev
+3) create Gruntfile.js -> tasks+config
+4) src/   -> source code (scss, less, js ...)
+5) dist/  -> production
+6) grunt (less)
+    * npm install grunt-contrib-less --save-dev
+
+    * npm install grunt-autoprefixer --save-dev

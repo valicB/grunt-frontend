@@ -1,0 +1,6 @@
+.super-shadow {
+  box-shadow: 0 0 10px 5px red;
+}
+.super-gradient {
+  background: linear-gradient(green, red);
+}
